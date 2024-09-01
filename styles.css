@@ -1,0 +1,126 @@
+body {background-color:lightgray;
+   margin:0px;
+   padding:0px;
+}
+header h1 {background-color:white;
+text-align:center;
+}
+
+article {
+ width:600px;
+ height: auto;
+ margin:0 auto;
+ 
+
+}
+.header {
+   background-color:white;
+}
+
+
+.header2{
+   background-color:white;}
+
+
+
+.header-title {
+   margin:0px;
+   padding:10px;
+   display:flex;
+}
+.header2-title {
+   background-color:white;
+   position:relative;
+   top:133px;
+   margin:0px;
+   padding:10px;
+  
+}
+
+
+.header3-title {
+   background-color:white;
+   position:relative;
+   top:133px;
+   margin:0px;
+   padding:10px;
+  
+}
+
+.header-date {
+   color:lightgray;
+   position:absolute;
+   right:380px;
+   top:42px;
+   padding:0px;
+   
+   float:right;
+  
+}
+
+.header2-date {
+   color:lightgray;
+   right:380px;
+   position:relative;
+   padding:0px;
+   top:87px;
+   right:0px;
+   float:right;
+  }
+  .header3-date {
+   color:lightgray;
+   right:380px;
+   position:relative;
+   padding:0px;
+   top:90px;;
+   right:0px;
+   float:right;
+  }
+
+.body img {
+   padding:0x;
+   margin:0px;
+   max-width:100%;
+}
+
+.body2 img {
+   position:relative;
+   top:80px;
+   padding:0px;
+   margin:0px;
+   max-width:100%;
+}
+   
+.body3 img {
+   position:relative;
+   bottom:-80px;
+   padding:0px;
+   margin:0px;
+   max-width:100%;
+}
+
+
+   .footer {
+      background-color:white;
+      position:relative;
+      padding:1px;
+      
+   }
+   .footer2 {
+      background-color:white;
+      position:relative;
+      bottom:-50px;
+      padding:1px;
+      text-align:auto;
+      
+   
+   }
+
+   .footer3 {
+      background-color:white;
+      position:relative;
+      bottom:-80px;
+      padding:0px;
+      margin:0px;
+      display:flex;
+   }
